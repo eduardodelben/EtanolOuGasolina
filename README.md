@@ -1,4 +1,4 @@
-# Meu Combustível 🚗💡
+# Etanol ou Gasolina? 🛢️💰
 
 Aplicativo desenvolvido em **.NET MAUI** para comparar preços de etanol e gasolina, ajudando os usuários a escolherem o combustível mais vantajoso.
 
