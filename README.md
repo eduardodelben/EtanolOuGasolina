@@ -24,3 +24,7 @@ Aplicativo desenvolvido em **.NET MAUI** para comparar preços de etanol e gasol
 2. Insira o preço do etanol e da gasolina nos campos correspondentes.
 3. Pressione o botão **"Qual compensa mais?"**.
 4. O aplicativo exibirá qual combustível é mais vantajoso.
+
+---
+
+💡 *Feito por [Eduardo Delben](https://github.com/eduardodelben)*
